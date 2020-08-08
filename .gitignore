@@ -1,0 +1,9 @@
+server/node_modules
+server/package-lock.json
+
+sahla_client/node_modules
+sahla_client/build
+sahla_client/package-lock.json
+
+sahalAPI/node_modules
+sahalAPI/package-lock.json
